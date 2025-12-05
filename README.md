@@ -51,6 +51,10 @@ Good luck! :thumbsup:
 Install dependencies.
 
 ```bash
+npm install -g pnpm@latest-10
+```
+
+```bash
 pnpm install
 ```
 
