@@ -1,3 +1,7 @@
+//Defines TypeScript interfaces for API data
+// SampleData interface describes the structure of issues from the API
+// Ensures type safety throughout the application
+//The key structure
 export interface SampleData {
     results: {
         id: number;
